@@ -1,2 +1,2 @@
 # OS-lab-Rohan-
-OS lab
+consists of all the work from OS lab
